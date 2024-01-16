@@ -10,5 +10,19 @@
 ### pix2pix
 - **URL**: https://arxiv.org/abs/1611.07004
 
-### title
-- **URL**: 
+### ResNet
+- **URL**: https://arxiv.org/abs/1512.03385v1
+
+### DenseNet
+- **URL**: https://arxiv.org/abs/1608.06993v5
+
+## 基盤モデルなど
+### RadImageNet
+- **URL**: https://pubs.rsna.org/doi/10.1148/ryai.210315
+
+### AbdomenAtlas-8k
+- **URL**: https://arxiv.org/abs/2305.09666
+
+### MedPalm
+- -1 **URL**: https://www.nature.com/articles/s41586-023-06291-2
+- -2 **URL**: https://arxiv.org/abs/2305.09617
