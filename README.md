@@ -4,6 +4,9 @@
 ### U-net
 - **URL**: https://arxiv.org/abs/1505.04597v1
 
+### Swin UNETR
+- **URL**: https://arxiv.org/abs/2201.01266v1
+
 ### GAN
 - **URL**: https://arxiv.org/abs/1406.2661
 
