@@ -35,6 +35,9 @@
 ### MedSAM
 - **URL**: https://arxiv.org/abs/2304.12306
 
+### TotalSegmentator
+- **URL**: https://pubs.rsna.org/doi/abs/10.1148/ryai.230024?journalCode=ai
+
 ### AbdomenAtlas-8k
 - **URL**: https://arxiv.org/abs/2305.09666
 
