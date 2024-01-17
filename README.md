@@ -32,6 +32,9 @@
 ### RadImageNet
 - **URL**: https://pubs.rsna.org/doi/10.1148/ryai.210315
 
+### MedSAM
+- **URL**: https://arxiv.org/abs/2304.12306
+
 ### AbdomenAtlas-8k
 - **URL**: https://arxiv.org/abs/2305.09666
 
