@@ -16,6 +16,15 @@
 ### DenseNet
 - **URL**: https://arxiv.org/abs/1608.06993v5
 
+### Transformer
+- **URL**: https://arxiv.org/abs/1706.03762
+
+### R-CNN
+- **URL**: https://arxiv.org/abs/1311.2524
+
+### YOLO
+- **URL**: https://arxiv.org/abs/1506.02640v5
+
 ## 基盤モデルなど
 ### RadImageNet
 - **URL**: https://pubs.rsna.org/doi/10.1148/ryai.210315
@@ -26,3 +35,14 @@
 ### MedPalm
 - -1 **URL**: https://www.nature.com/articles/s41586-023-06291-2
 - -2 **URL**: https://arxiv.org/abs/2305.09617
+
+### GPT-4
+- **URL**: https://arxiv.org/abs/2303.08774
+
+## 評価指標など
+### Dice similarity coefficient
+- **URL**: https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1932409
+
+
+
+
